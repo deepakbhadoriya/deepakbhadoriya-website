@@ -38,9 +38,9 @@ function Word({ children, ...props }) {
       onPointerOut={out}
       onClick={() => console.log('clicked')}
       {...props}
-      {...fontProps}
-      children={children}
-    />
+      {...fontProps}>
+      {children}
+    </Text>
   );
 }
 
@@ -62,7 +62,9 @@ function Cloud({ count = 4, radius = 20 }) {
     return temp;
   }, [count, radius]);
   return words.map(([pos, word], index) => (
-    <Word key={index} position={pos} children={word} />
+    <Word key={index} position={pos}>
+      {word}
+    </Word>
   ));
 }
 
