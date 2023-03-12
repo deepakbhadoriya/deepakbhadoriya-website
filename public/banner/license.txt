@@ -1,0 +1,11 @@
+Model Information:
+* title:	(FREE) Low Poly Game Assets
+* source:	https://sketchfab.com/3d-models/free-low-poly-game-assets-bbbfbeccfc9047b8b3f15b1c90061cdf
+* author:	LowPolyBoy (https://sketchfab.com/lowPolyBoy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(FREE) Low Poly Game Assets" (https://sketchfab.com/3d-models/free-low-poly-game-assets-bbbfbeccfc9047b8b3f15b1c90061cdf) by LowPolyBoy (https://sketchfab.com/lowPolyBoy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
