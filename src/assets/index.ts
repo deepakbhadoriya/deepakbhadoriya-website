@@ -7,6 +7,7 @@ import github from './github.png';
 import menu from './menu.svg';
 import close from './close.svg';
 
+// Tech
 import css from './tech/css.png';
 import docker from './tech/docker.png';
 import figma from './tech/figma.png';
@@ -22,8 +23,10 @@ import typescript from './tech/typescript.png';
 import threejs from './tech/threejs.svg';
 
 // Company
+import swipeJobs from './company/swipeJobs.jpeg';
 import proximity from './company/proximity.jpeg';
 import rizer from './company/rizer.jpeg';
+import digiIndia from './company/digiIndia.jpg';
 
 // Project
 import trendz from './projects/trendz.png';
@@ -38,6 +41,8 @@ export {
   github,
   menu,
   close,
+
+  // Tech
   css,
   docker,
   figma,
@@ -51,8 +56,14 @@ export {
   tailwind,
   typescript,
   threejs,
+
+  // Company
+  swipeJobs,
   proximity,
   rizer,
+  digiIndia,
+
+  // Projects
   trendz,
   songLyrics,
 };
